@@ -118,8 +118,8 @@
         </constraints>
         <properties>
           <model>
-            <item value="kek"/>
-            <item value="kekw"/>
+            <item value="Economy Seat"/>
+            <item value="Business Class Seat"/>
           </model>
         </properties>
       </component>
